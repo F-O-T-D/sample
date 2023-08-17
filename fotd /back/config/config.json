@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jialin03",
+    "password": "hjhj88@",
+    "database": "FOTD_user",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "jialin03",
+    "password": "hjhj88@",
+    "database": "FOTD_user",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "jialin03",
+    "password": "hjhj88@",
+    "database": "FOTD_user",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
